@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6eccf40b99b3d4548acfff7008a6d849, type: 3}
   m_Name: Sword 2
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 38360947826596602, guid: 8a2f20aa4005416449a39be7e8646bdf, type: 3}
   type: 1
   description: 
   atkBonus: 30

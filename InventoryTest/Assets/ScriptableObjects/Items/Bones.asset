@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87cfe369cd66da24b9a584d4414d796c, type: 3}
   m_Name: Bones
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 3620407788800377229, guid: 0651066cebd737e488ca07f9a631d5e9, type: 3}
   type: 2
   description: You has been slaind
